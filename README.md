@@ -1,20 +1,38 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
-  <h1>Plot Concepts in the Narrative Policy Framework</h1>
-  <p>This site accompanies the 2025 paper analyzing the structure, valence, and causality dimensions of policy plot elements.</p>
+# NPF Plot Concepts (2025)
 
-  <h2>Contents</h2>
-  <ul>
-    <li><a href="scripts/venn_diagram.R">Venn Diagram R Script</a></li>
-    <li><a href="scripts/sankey_plot.R">Sankey Diagram R Script</a></li>
-    <li><a href="figures/">Figures and Visualizations</a></li>
-    <li><a href="data/coded_data.xlsx">Intercoder Reliability Dataset</a></li>
-  </ul>
+This repository accompanies the forthcoming paper: *Structure, Valence, and Causality: A Scoping Review of Plot Concepts and Measurements in the Narrative Policy Framework*.
 
-  <p>Maintained by Jonathan W.A. Ruff. Last updated: April 2025.</p>
-</body>
-</html>
+🧠 **Project Site**:  
+📎 [Visit GitHub Pages Site](https://jonruffpolicy.github.io/NPF-plot-concepts-2025/)
 
+---
+
+## 📂 Repository Contents
+
+### 📁 [`scripts/`](./scripts)
+- [`euler_venn_diagram.R`](./scripts/euler_venn_diagram.R) – Creates an Euler diagram using the `eulerr` package  
+- [`sankey_plot.R`](./scripts/sankey_plot.R) – Builds a Sankey diagram of narrative structure transitions using `ggalluvial`
+
+### 🖼️ [`figures/`](./figures)
+Contains exported PNG diagrams and plots used in the manuscript.
+
+### 📊 [`data/`](./data)
+- [`coded_data.xlsx`](./data/coded_data.xlsx) – Dataset used for intercoder reliability and narrative plot element analysis
+
+---
+
+## 🧪 Tools Used
+- R and RStudio  
+- `eulerr`, `ggalluvial`, `readxl`, `dplyr`
+
+---
+
+## 🧾 Citation
+Coming soon — will include link to final paper and citation details.
+
+---
+
+## 👤 Maintainer
+Jonathan W.A. Ruff  
+Assistant Professor, South Dakota State University  
+📬 [jonruffpolicy.com](https://jonruffpolicy.com)
