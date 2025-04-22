@@ -10,8 +10,8 @@ This repository accompanies the forthcoming paper: *Structure, Valence, and Caus
 ## 📂 Repository Contents
 
 ### 📁 [`scripts/`](./scripts)
-- [`euler_venn_diagram.R`](./scripts/euler_venn_diagram.R) – Creates an Euler diagram using the `eulerr` package  
-- [`sankey_plot.R`](./scripts/sankey_plot.R) – Builds a Sankey diagram of narrative structure transitions using `ggalluvial`
+- [`Euler_venn_diagram.R`](./scripts/euler_venn_diagram.R) – Creates an Euler diagram using the `eulerr` package  
+- [`Sankey_plot.R`](./scripts/sankey_plot.R) – Builds a Sankey diagram of narrative structure transitions using `ggalluvial`
 
 ### 🖼️ [`figures/`](./figures)
 Contains exported PNG diagrams and plots used in the manuscript.
