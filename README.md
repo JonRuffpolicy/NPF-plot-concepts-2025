@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title> Plot Concepts in the Narrative Policy Framework </title>
 </head>
 <body>
   <h1>Plot Concepts in the Narrative Policy Framework</h1>
