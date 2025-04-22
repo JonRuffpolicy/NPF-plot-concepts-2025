@@ -17,7 +17,7 @@ This repository accompanies the forthcoming paper: *Structure, Valence, and Caus
 Contains exported PNG diagrams and plots used in the manuscript.
 
 ### 📊 [`data/`](./data)
-- [`coded_data.xlsx`](./data/Plot Codes_AgreedCombination.xlsx) – Agreed-on Dataset used for narrative plot element analysis
+- [`Plot Codes.xlsx`](./data/Plot Codes_AgreedCombination.xlsx) – Agreed-on Dataset used for narrative plot element analysis
 ---
 
 ## 🧪 Tools Used
