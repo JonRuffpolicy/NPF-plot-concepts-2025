@@ -16,9 +16,6 @@ This repository accompanies the forthcoming paper: *Structure, Valence, and Caus
 ### 🖼️ [`figures/`](./figures)
 Contains exported PNG diagrams and plots used in the manuscript.
 
-### 📊 [`data/`](./data)
-- [`coded_data.xlsx`](./data/coded_data.xlsx) – Dataset used for intercoder reliability and narrative plot element analysis
-
 ---
 
 ## 🧪 Tools Used
