@@ -68,7 +68,7 @@ total <- nrow(data)
 # Generate Sankey plot with widened gray bars (removed title)
 ggplot(agg_data, aes(axis1 = D_cat, axis2 = M_cat, y = freq)) +
     geom_alluvium(aes(fill = D_cat), width = 1/12) +
-    geom_stratum(width = 2.7/12, fill = "grey", color = "black") +
+    geom_stratum(width = 2.4/12, fill = "grey", color = "gray40", size = 0.1) +
     geom_text(stat = "stratum",
               aes(label = paste0(after_stat(stratum), "\n",
                                  after_stat(count), " (",
