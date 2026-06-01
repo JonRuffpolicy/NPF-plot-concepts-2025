@@ -27,7 +27,7 @@ Contains exported PNG diagrams and plots used in the manuscript.
 ---
 
 ## 🧾 Citation
-Coming soon — will include link to final paper and citation details.
+Ruff, J.W.A. (2026) Structure, Valence, and Causality: A Scoping Review of Plot Concepts and Measurements in the Narrative Policy Framework. Policy Studies Journal. doi: 10.1111/psj.70066.
 
 ---
 
