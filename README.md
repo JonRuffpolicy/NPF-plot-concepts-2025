@@ -1,6 +1,6 @@
 # NPF Plot Concepts (2025)
 
-This repository accompanies the forthcoming paper: *Structure, Valence, and Causality: A Scoping Review of Plot Concepts and Measurements in the Narrative Policy Framework*.
+This repository accompanies the paper: *Structure, Valence, and Causality: A Scoping Review of Plot Concepts and Measurements in the Narrative Policy Framework*.
 
 🧠 **Project Site**:  
 📎 [Visit GitHub Pages Site](https://jonruffpolicy.github.io/NPF-plot-concepts-2025/)
